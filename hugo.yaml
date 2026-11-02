@@ -10,7 +10,7 @@ pagination:
 
 params:
   env: production
-  description: "Reliable AI and engineering in the age of agents."
+  description: "An engineering manager's notes on reliable AI, verification, and how teams build software when agents write the code."
   author: Mahdi
   ShowReadingTime: true
   ShowPostNavLinks: true
@@ -25,6 +25,8 @@ params:
   socialIcons:
     - name: github
       url: https://github.com/mahdi-hm
+    - name: linkedin
+      url: https://www.linkedin.com/in/mahdihm/
     - name: rss
       url: /index.xml
 
