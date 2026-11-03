@@ -27,6 +27,8 @@ params:
       url: https://github.com/mahdi-hm
     - name: linkedin
       url: https://www.linkedin.com/in/mahdihm/
+    - name: substack
+      url: https://mahdisnotes.substack.com/
     - name: rss
       url: /index.xml
 
@@ -41,6 +43,9 @@ menu:
     - name: About
       url: /about/
       weight: 30
+    - name: Subscribe
+      url: https://mahdisnotes.substack.com/subscribe
+      weight: 40
 
 markup:
   highlight:
